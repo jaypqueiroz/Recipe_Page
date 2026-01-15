@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: none;
+}
+
+:root {
+    font-family: "Alice", serif;
+    line-height: 150%;
+    color: #573A37;
+
+    /* Suface Colors */
+    --bg-color:#573824;
+    --surface-color:#F0E8C2;
+
+    /* Text Colors */
+    --text-color-primary:#291B1A;
+    --text-color-secundary:#573A37;
+    --text-color-bg:#F0E8C2;
+}
